@@ -1,0 +1,25 @@
+table{
+    width: 70vw !important;
+    margin: 50px auto;
+    text-align: center;
+    border: 1px solid black !important;
+}
+td>img{
+    width: 100px;
+    height: 150px;
+    object-fit: cover;
+}
+th{
+    border: 1px solid black !important;
+}
+td{
+    line-height: 150px;
+    border: 1px solid black !important;
+}
+caption{
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
